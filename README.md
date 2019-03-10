@@ -1,4 +1,3 @@
-var myNote = "get milk"
-
-// later on
-myNote = "Get cookies"
+function sayHelloToIsabel() {
+  console.log("Hello, Isabel!")
+}
